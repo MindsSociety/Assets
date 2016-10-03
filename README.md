@@ -1,4 +1,5 @@
-Minds Assets
+![alt text](https://github.com/MindsSociety/Assets/blob/master/images/socIT.png "")
+socIT Assets
 ============
 
 ### Directory structure
