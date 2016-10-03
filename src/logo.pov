@@ -76,7 +76,7 @@ plane
 	object{halfPost translate<13,0,0>}
 	object{halfPost translate<1,6,0>}
 }
-#object{s texture{primary}}
+object{s texture{primary}}
 
 //c
 #declare c=union
